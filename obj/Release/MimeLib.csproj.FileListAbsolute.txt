@@ -1,4 +1,0 @@
-D:\My Documents\Visual Studio 2015\Projects\FMC\MimeLib\bin\Release\MimeLib.dll
-D:\My Documents\Visual Studio 2015\Projects\FMC\MimeLib\bin\Release\MimeLib.pdb
-D:\My Documents\Visual Studio 2015\Projects\FMC\MimeLib\obj\Release\MimeLib.dll
-D:\My Documents\Visual Studio 2015\Projects\FMC\MimeLib\obj\Release\MimeLib.pdb
